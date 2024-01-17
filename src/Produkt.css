@@ -1,0 +1,23 @@
+.Produkt {
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+}
+
+.Specyfikacje {
+    padding-left: 10px;
+    text-align: left;
+}
+
+span {
+    font-weight: bold;
+}
+
+.Nazwa {
+    text-align: center;
+}
+
+h3 {
+    border-top: 1px solid black;
+    font-size: large;
+}
